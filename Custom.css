@@ -1,0 +1,23 @@
+/*
+file in 
+C:\Users\${YOUR_COMPANY_USER}\AppData\Local\Google\Chrome\User Data\Default\User StyleSheets\Custom.css
+*/
+pre.compile-data, .content.adver_contB, 
+#hd_strapleft, #base_scrollToTop, #bdshare, #header_container, #ramdomVisitDiv, 
+#module_903, #module_904, #module_911, #module_912, #share iframe, #recommendShangXun, 
+.SG_conn iframe, .related_tag, .quick-links, .show_rel, .shareUp, .gg, .articalInfo, .blogreco, .turnBoxzz, .allComm, 
+#rightADWrap, #divComposeSuccAd, #divComposeSuccStamp, #top_slide, #sharebar, #social-box, 
+.ibm-ind-link.ibm-back-to-top, .syntaxhighlighter  .bar, .syntaxhighlighter  .number, 
+#sub-frame-error, 
+.microzoneShortDescription, .under_the_title, .ggbg, .ep-header-side, .gg300, 
+#user_nav a img, 
+.autoPagerS, .ads300_show, .ads700_show, .ads468_show, .share_thread, .wrap2 .p_share_ding, 
+footer .bs-social-buttons, 
+#dale_movie_home_top_right, #dale_movie_home_bottom_right, #dale_movie_home_middle_left, #movie_home_left_bottom, #header .app-header, #content_right, 
+.tuiguang, a[href^="http://wpa.qq.com"], iframe[src^="http://widget.weibo.com"], wb, wb\:follow-button, .ad, .in-ad-wrapper, #instreet-plugin-container, #rogue-suggest, #iwrap, #TabList, #s_bar, #Other, #TextViewPanel, 
+.cnblogs_code_toolbar, tr.commit-row.merge, 
+div[id^="googlead"], #page-list .thumbnail, #page-list .favicon, 
+img[src^="http://static.oschina.net/uploads/ad/"],
+#mapBanner, #tools, #wHistory, #declare_top, #smp_storer_wrap, #MapInfoCon, #shad
+
+{display: none!important;}
